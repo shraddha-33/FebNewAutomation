@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="true">
+  <test name="Test">
+    <classes>
+      <class name="com.cyber.success.maven.demo1Test"/>
+      <class name="com.cyber.success.maven.demo2Test"/>
+    </classes>
+  </test> 
+</suite> 

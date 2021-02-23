@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="50028" started-at="2021-02-16T14:09:00 IST" finished-at="2021-02-16T14:09:50 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="50028" started-at="2021-02-16T14:09:00 IST" finished-at="2021-02-16T14:09:50 IST">
+      <class name="com.cyber.success.maven.demo2Test">
+        <test-method status="PASS" signature="demo2()[pri:0, instance:com.cyber.success.maven.demo2Test@5622fdf]" name="demo2" duration-ms="25121" started-at="2021-02-16T14:09:25 IST" finished-at="2021-02-16T14:09:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+      </class> <!-- com.cyber.success.maven.demo2Test -->
+      <class name="com.cyber.success.maven.demo1Test">
+        <test-method status="PASS" signature="demo1()[pri:0, instance:com.cyber.success.maven.demo1Test@6093dd95]" name="demo1" duration-ms="24848" started-at="2021-02-16T14:09:00 IST" finished-at="2021-02-16T14:09:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+      </class> <!-- com.cyber.success.maven.demo1Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
